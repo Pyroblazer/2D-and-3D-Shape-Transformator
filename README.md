@@ -1,5 +1,5 @@
 # Tugas-Besar-Aljabar-Geometri-2
-##Linear Transformation using OpenGL in Python
+## Linear Transformation using OpenGL in Python
 
 Creator:
 1. Ariel Ansa Razumardi - 13517040
